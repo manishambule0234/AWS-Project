@@ -3,13 +3,16 @@ AWS Deployment Guide
 Introduction
 
 Network – Amazon VPC
+
 Amazon Virtual Private Cloud (VPC is your network's foundation. In this section, you'll learn to craft a secure and isolated network environment. Key steps include:
 
 Creating a VPC: Establish the core networking framework.
+
 Configuring Subnets: Define public and private subnets for secure resource isolation.
 Networking Resources: Explore networking components like endpoints, DNS settings, and gateways.
 
 Compute – Amazon EC2
+
 Amazon Elastic Compute Cloud (EC2 is where your applications and services run. This section covers essential steps such as:
 
 Launching EC2 Instances: Set up web server instances for hosting your applications.
@@ -19,6 +22,7 @@ Elastic Load Balancer (ELB): Distribute traffic and ensure high availability wit
 Setting up an Auto-scaling group for the infrastructure
 
 Database – Amazon Aurora
+
 In the Amazon Aurora section, you'll build a high-performance, scalable relational database. Key components include:
 
 Database Cluster Setup: Create your Aurora database cluster.
