@@ -27,9 +27,11 @@ Data Security: Implement data protection mechanisms to secure your valuable info
 Secrets Manager: Securely manage database credentials with AWS Secrets Manager.
 
 Clean Up Resources
+
 Effective resource management is crucial. In the clean-up section, you'll discover how to terminate and delete resources you've created throughout this guide. This essential step ensures cost control and a tidy AWS environment.
 
 Conclusion
+
 By following this guide, you'll gain a solid understanding of AWS infrastructure. Whether you're setting up a new environment, optimizing an existing one, or simply learning the ropes, 
 this repository provides the knowledge and tools you need for secure, efficient, and scalable AWS infrastructure. Remember to follow best practices for security 
 and cost management when working with AWS resources. Happy deploying!
